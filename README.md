@@ -1,0 +1,2 @@
+# felica-attendance
+学生証をかざしてdiscordに出欠報告を流すGTK4アプリ
